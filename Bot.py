@@ -2,8 +2,8 @@ import asyncio
 import discord
 from discord.ext import commands
 
-# file = open("rules.txt","r")
-# rules = file.readlines()
+file = open("rules.txt","r")
+rules = file.readlines()
 
 bot = commands.Bot(command_prefix='!')
 
