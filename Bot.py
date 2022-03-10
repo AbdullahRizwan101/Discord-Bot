@@ -55,4 +55,4 @@ async def unban(ctx,*,member):
 async def clear(ctx,amount=10):
     await ctx.channel.purge(limit=amount)
 
-bot.run('NzY5NTAyNjM2NjgzOTUyMTg5.X5P9LQ.f_1DXbYfNBX6dNeADTXMh2z1GnM')
+bot.run('puwt your discowrd bot towken')
